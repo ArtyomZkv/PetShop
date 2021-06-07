@@ -1,0 +1,16 @@
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\bin\Debug\PetshopDB.exe.config
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\bin\Debug\PetshopDB.exe
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\bin\Debug\PetshopDB.pdb
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.csprojAssemblyReference.cache
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.frm_MainForm.resources
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.Properties.Resources.resources
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.csproj.GenerateResource.cache
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.csproj.CoreCompileInputs.cache
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.exe
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.pdb
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.Forms.WorkWithProducts.resources
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.Forms.NewAnimal.resources
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.Forms.NewCategoryForProducts.resources
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.Forms.NewFeed.resources
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.Forms.AddCategoryForMeds.resources
+C:\Users\zujko\source\repos\PetshopDB\PetshopDB\obj\Debug\PetshopDB.Forms.AddNewMed.resources
